@@ -1,0 +1,13 @@
+Package: mein-script
+Version: 1.0-2
+Architecture: all
+Maintainer: Peter Volkmann <pevau@gmx.net>
+Filename: ./mein-script.deb
+Size: 638
+MD5sum: 59807b3cbcc19f1662ee12862cf98417
+SHA1: eb11d20b91c76782c44deb59c767186d93aef12c
+SHA256: 733248f1d90d9dd41807fbb4797b73f64690dd92c92c7d418e944baffe8b6172
+Section: utils
+Priority: optional
+Description: Ein einfaches Bash-Skript, das Hallo sagt.
+
